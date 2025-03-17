@@ -1,6 +1,6 @@
 # Lista de Amigos 👥
 
-Este es un pequeño proyecto en JavaScript que permite agregar nombres a una lista de amigos, visualizar los nombres almacenados y seleccionar uno al azar.
+Este es un pequeño proyecto en JavaScript para el curso de Programación de Alura Latam que permite agregar nombres a una lista de amigos, visualizar los nombres almacenados y seleccionar uno al azar.
 
 ## 📌 Funcionalidades
 - Agregar nombres a la lista de amigos.
