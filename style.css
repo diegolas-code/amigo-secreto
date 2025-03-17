@@ -135,7 +135,8 @@ ul {
 }
 
 .result-list {
-    margin-top: 15px;
+    font-family: "Inter", sans-serif;
+    margin: 20px 0;
     color: #05DF05;
     font-size: 22px;
     font-weight: bold;
